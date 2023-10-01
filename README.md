@@ -3,4 +3,4 @@
 
  Aprendendo criar repositórios com o professor Gustavo Guanabara!
 
-Essa linha eu escrevi direto do site! Muito Top!
+Essa linha eu escrevi direto no site! Muito Top!
